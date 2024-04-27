@@ -7,7 +7,7 @@ packages = ["src/hanoikovoidcdau"]
 
 [project]
 name = "hanoikovoiduocdau"
-version = "0.0.2"
+version = "0.0.3"
 authors = [{ name = "betty2310", email = "huynhduongsh1@gmail.com" }]
 description = "A package for standardize Hanoi's address"
 readme = "README.md"
